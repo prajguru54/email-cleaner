@@ -1,0 +1,6 @@
+# windsurf rules
+.windsurfrules
+.venv/
+
+credentials.json
+token.json
