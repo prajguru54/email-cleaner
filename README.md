@@ -46,7 +46,7 @@ python delete_gmail_emails.py
 
 - The script will show you a summary of emails in Social and Promotions.
 - It will open a browser window for you to sign in and authorize access the first time.
-- (By default, deletion is commented out for safety. Review the script and uncomment if you want to proceed with deletion.)
+
 
 ## 5. Important Files
 
